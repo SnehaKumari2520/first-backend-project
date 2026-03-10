@@ -1,0 +1,19 @@
+{
+  "name": "first-backend-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnehaKumari2520/first-backend-project.g.git"
+  },
+  "author": "sneha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnehaKumari2520/first-backend-project.g/issues"
+  },
+  "homepage": "https://github.com/SnehaKumari2520/first-backend-project.g#readme"
+}
